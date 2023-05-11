@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sm00tz
-- 👀 I’m interested in Data Dnalysis
+- 👀 I’m interested in Data Analysis and AI
 - 🌱 I’m currently learning Python
 
 <!---
